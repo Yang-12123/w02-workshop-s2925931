@@ -9,4 +9,3 @@ fibo.append(next_val_1)
 next_val_2 = p * fibo[2] + q * fibo[1]
 fibo.append(next_val_2)
 
-print(fibo)
