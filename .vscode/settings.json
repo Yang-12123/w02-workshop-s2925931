@@ -9,7 +9,7 @@
     "git.rebaseWhenSync": true,
     "git.openAfterClone": "always",
 
-    "chat.disableAIFeatures": true,
+    "chat.disableAIFeatures": false,
 
     "editor.lineHeight": 17,
     "breadcrumbs.enabled": false,
